@@ -8,5 +8,4 @@ public class Launcher
 	{
 		SignUpDisplay display = new SignUpDisplay();
 	}
-
 }
